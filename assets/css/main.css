@@ -1,0 +1,8 @@
+@import "bootstrap.min.css";
+@import "mdb.min.css";
+.hidden{
+    display: none;
+}
+.visible{
+    display: block;
+}

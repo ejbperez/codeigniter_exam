@@ -1,6 +1,6 @@
 'user strict';
 $(function(){
-var server = '/tri7exam/';
+var server = '/codeigniter_exam/';
 
 //EVENTS
 
